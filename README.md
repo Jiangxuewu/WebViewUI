@@ -1,3 +1,5 @@
+
+
 # WebViewUI
 WebViewUI 提供一个WebView的Activity，支持视频播放、位置定位等，模仿WeChat的WebViewUI的Activity。
 
@@ -24,4 +26,4 @@ WebViewUI 提供一个WebView的Activity，支持视频播放、位置定位等�
          <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
          
   在build.gradle中：
-  
+        compile 'com.bbsz.sky:WebViewUI:1.0.3'
